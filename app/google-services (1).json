@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890884682111",
+    "project_id": "ghumakkar-52b48",
+    "storage_bucket": "ghumakkar-52b48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890884682111:android:2feabe1bf3734a392c2a4a",
+        "android_client_info": {
+          "package_name": "com.komal.ghumakkar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890884682111-ke329nlct789p28fbr79dvbc8qosvj2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.komal.ghumakkar",
+            "certificate_hash": "4f879916be79e7bda4cc81c5b6415005b4a64dc2"
+          }
+        },
+        {
+          "client_id": "890884682111-mt75kmsj7s819tvst983hj8curr05vnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChcUhDfJrtuhpksboJryZrMk6IUNWXWaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890884682111-mt75kmsj7s819tvst983hj8curr05vnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
