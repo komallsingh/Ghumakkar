@@ -9,10 +9,11 @@ import com.komal.ghumakkar.screens.*
 
 @Composable
 fun AppNavGraph(navController: NavHostController) {
-    NavHost(navController = navController, startDestination = "login") {
+    NavHost(navController = navController, startDestination = "splash") {
 
         composable("login") { LoginScreen(navController) }
         composable("register") { RegisterScreen(navController) }
         composable("home") { HomeScreen() }
+        composable("splash"){SplashScreen(navController)}
     }
 }
